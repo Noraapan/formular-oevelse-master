@@ -1,0 +1,19 @@
+/* Dine styles her */
+form {
+  padding: 2rem;
+  background: hwb(260 95% 3%);
+  border-radius: 8px;
+  border: 2px solid red;
+}
+label,
+input,
+textarea,
+select,
+button {
+  display: block;
+  color: red;
+  margin: 2px;
+}
+button {
+  border: 1px solid red;
+}
